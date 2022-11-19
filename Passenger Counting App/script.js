@@ -1,4 +1,4 @@
-const countEl = document.getElementsByClassName('count-el');
+const countEl = document.getElementById('count-el');
 let count = 0;
 
 function incrementCounter () {
